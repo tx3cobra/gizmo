@@ -1,7 +1,7 @@
 #EXTM3U url-tvg=https://macan.tv/xmltv.php?username=epg&password=epg
-#EXTINF: -1 tvg-name="Gratis" tvg-logo="" group-title="zozotv", Khusus Tivimate atau Ott navigator
+#EXTINF: -1 tvg-name="Gratis" tvg-logo="" group-title="zozotv", Channel ShamBentong Terkini
 https://channel.mbed.cc/yt.php?id=kJktXIT2U8k
-#EXTINF: -1 tvg-name="Gratis" tvg-logo="" group-title="zozotv", zozotv terbaru di sini
+#EXTINF: -1 tvg-name="Gratis" tvg-logo="" group-title="zozotv", ShamBentong FordTX3
 https://channel.mbed.cc/yt.php?id=SwYO80ArYv4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
