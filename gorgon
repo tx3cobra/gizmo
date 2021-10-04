@@ -1,9 +1,8 @@
 #EXTM3U url-tvg=https://macan.tv/xmltv.php?username=epg&password=epg
-#EXTINF: -1 tvg-name="Gratis" tvg-logo="" group-title="18SX", WRESTLING LEMBUT
+#EXTINF: -1 tvg-name="Gratis" tvg-logo="" group-title="18SX", SABIRIN MAIN PUNAI
 https://channel.mbed.cc/yt.php?id=kJktXIT2U8k
-#EXTINF: -1 tvg-name="Gratis" tvg-logo="" group-title="18SX", MAIN TINDIH TINDIH
+#EXTINF: -1 tvg-name="Gratis" tvg-logo="" group-title="18SX", JANGAN MAIN SABUN HAHA
 https://channel.mbed.cc/yt.php?id=SwYO80ArYv4
-#EXTINF:-1 tvg-id="411" tvg-logo="https://telegra.ph/file/986a3024fb6dfaefde2ae.png" tvg-name="18SX KASI NGACENG" group-title="ASTRO",SABIRIN MAIN PUNAI
 
 #EXTM3U 
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/get-pdb/4700496/8e14343a-f9b5-4bc2-aebc-4de515a78962/s600" group-title="!!! ЕЩЕ БОЛЬШЕ ХАЛЯВЫ НА ТЕЛЕГРАМ КАНАЛЕ -> t.me/SimpleTV_by_DrSerg2048",@SimpleTV_by_DrSerg2048 <- НАЙДИ И ПОДПИШИСЬ
